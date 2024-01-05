@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the project of group - 13 for the course MTH208. In this project we have analysed the dataset from Basketball Refrence containing summary statistics of 679 NBA players data from  Basketball Refrence and tried to get some insights related to wining in NBA , Judging Players, and game stimulation. We also tried to compare two hypothetical teams with Game Score Along with that, we have also built an app using Shiny package in R Studio for analysisng data in an interactive way.
+In this project I have analysed the dataset from Basketball Refrence containing summary statistics of 679 NBA players data from  Basketball Refrence and tried to get some insights related to wining in NBA , Judging Players, and game stimulation. I also tried to compare two hypothetical teams with Game Score Along with that, I have also built an app using Shiny package in R Studio for analysisng data in an interactive way.
 
 ## PURPOSE 
 
@@ -16,7 +16,7 @@ The purpose of the project is to answer the following questions
 
 ## METHODOLOGY
 
-We scrapped the top 50 player data by basketball reference and also scrapped all season data of NBA season 2022-23 from the basketball reference.
+I scrapped the top 50 player data by basketball reference and also scrapped all season data of NBA season 2022-23 from the basketball reference.
 
 
 
